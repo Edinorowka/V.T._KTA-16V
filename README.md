@@ -2,7 +2,7 @@
 KTA-16V materjalid minu aines
 
 
-Регистрация Github
-Github education pack
-Repositories/Branches
-Edit documents
+Регистрация Github;
+Github education pack;
+Repositories/Branches;
+Edit documents;
